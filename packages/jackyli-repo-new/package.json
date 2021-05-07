@@ -1,0 +1,26 @@
+{
+  "name": "jackyli-repo-new",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "jackyli1991 <2008042226@163.com>",
+  "homepage": "https://github.com/jackyli1991/lerna-repo#readme",
+  "license": "ISC",
+  "main": "lib/jackyli-repo-new.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackyli1991/lerna-repo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/jackyli1991/lerna-repo/issues"
+  }
+}
