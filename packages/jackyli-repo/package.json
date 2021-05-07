@@ -1,0 +1,19 @@
+{
+  "name": "jackyli-repo",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "jackyli1991 <2008042226@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/jackyli-repo.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
